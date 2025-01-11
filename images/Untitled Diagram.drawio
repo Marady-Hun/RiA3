@@ -472,8 +472,8 @@
         <mxCell id="1anWlEC75gfxgY0YZaxR-98" value="&lt;span style=&quot;font-size: 11px; font-weight: 700; text-align: start;&quot;&gt;GSTP1 expression&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=7;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1059.5" y="105" width="107" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1anWlEC75gfxgY0YZaxR-99" value="&lt;span style=&quot;font-size: 11px; font-weight: 700; text-align: start;&quot;&gt;RTX-Rel/ RTX-Rem/&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-weight: 700; text-align: start; background-color: transparent;&quot;&gt;Con&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=7;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="793" y="105" width="133" height="30" as="geometry" />
+        <mxCell id="1anWlEC75gfxgY0YZaxR-99" value="&lt;span style=&quot;font-size: 11px; font-weight: 700; text-align: start;&quot;&gt;RTX-Rel vs RTX-Rem vs&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-weight: 700; text-align: start; background-color: transparent;&quot;&gt;Con&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=7;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="793" y="105" width="157" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
