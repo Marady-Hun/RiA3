@@ -265,7 +265,7 @@
         <mxCell id="1anWlEC75gfxgY0YZaxR-17" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;&quot; class=&quot;p1&quot;&gt;NS medications&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;spacing=1;shadow=0;fontSize=8;horizontal=0;flipV=0;direction=south;strokeColor=#10739e;fillColor=#b1ddf0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;align=center;gradientColor=#EFF9FA;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="451.14" y="656.98" width="34.42" height="107.79" as="geometry" />
         </mxCell>
-        <mxCell id="1anWlEC75gfxgY0YZaxR-25" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;Ezatiostat(TLK199)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=left;verticalAlign=middle;spacing=7;spacingRight=0;spacingBottom=3;fillColor=#f8cecc;strokeColor=#b85450;fontSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=#ea6b66;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="1anWlEC75gfxgY0YZaxR-25" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;Ezatiostat(TLK199)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=left;verticalAlign=middle;spacing=7;spacingRight=0;spacingBottom=3;fillColor=#f8cecc;strokeColor=#b85450;fontSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=#ea6b66;gradientDirection=radial;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="676" y="728.86" width="110" height="39" as="geometry" />
         </mxCell>
         <mxCell id="1anWlEC75gfxgY0YZaxR-27" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;&quot; class=&quot;p1&quot;&gt;Next NS medications?&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;spacing=1;shadow=0;fontSize=8;horizontal=0;flipV=0;direction=south;strokeColor=#10739e;fillColor=#b1ddf0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;align=center;gradientColor=#EFF9FA;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -449,10 +449,25 @@
           <mxGeometry x="927.63" y="260" width="90" height="70.2" as="geometry" />
         </mxCell>
         <mxCell id="_rdkf1LHz4WTwa0cJOul-39" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;OXPHOS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontSize=7;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;gradientDirection=radial;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="918.38" y="447" width="108.5" height="30" as="geometry" />
+          <mxGeometry x="918.38" y="468.5" width="108.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_rdkf1LHz4WTwa0cJOul-44" value="ROS" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontSize=12;fontStyle=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;gradientDirection=radial;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_rdkf1LHz4WTwa0cJOul-44" value="ROS" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontSize=12;fontStyle=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;gradientDirection=radial;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="925.63" y="373" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_rdkf1LHz4WTwa0cJOul-47" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(26, 26, 26), rgb(215, 215, 215)); font-size: 11px;&quot;&gt;&lt;b&gt;Nephron/ Podocyte&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=7;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="897" y="227" width="157" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_rdkf1LHz4WTwa0cJOul-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_rdkf1LHz4WTwa0cJOul-49" target="_rdkf1LHz4WTwa0cJOul-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_rdkf1LHz4WTwa0cJOul-49" value="&lt;b style=&quot;color: rgb(26, 26, 26); font-family: Helvetica; font-size: 11px; text-align: start;&quot;&gt;TNF-a&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="817" y="276.78000000000003" width="64" height="36.44" as="geometry" />
+        </mxCell>
+        <mxCell id="_rdkf1LHz4WTwa0cJOul-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_rdkf1LHz4WTwa0cJOul-51" target="_rdkf1LHz4WTwa0cJOul-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_rdkf1LHz4WTwa0cJOul-51" value="TLK199" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontSize=12;fontStyle=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;gradientDirection=radial;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1059.5" y="463.5" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
