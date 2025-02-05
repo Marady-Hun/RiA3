@@ -605,11 +605,12 @@
             <mxPoint x="910" y="690" as="targetPoint" />
             <Array as="points">
               <mxPoint x="975" y="724.5700000000003" />
+              <mxPoint x="930" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_rdkf1LHz4WTwa0cJOul-111" value="Chemokines" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="930" y="710.01" width="53.83" height="10.98" as="geometry" />
+          <mxGeometry x="930" y="717.88" width="53.83" height="10.98" as="geometry" />
         </mxCell>
         <mxCell id="_rdkf1LHz4WTwa0cJOul-181" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="918" y="389.58" width="25.679999999999836" height="26.84000000000009" as="geometry" />
