@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l0LuXsd8pvvMN4tEOZXW-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=1;fillColor=#cce5ff;strokeColor=#86A975;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;rotation=-180;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="465.64" y="369.09" width="181.25" height="27.72" as="geometry" />
+          <mxGeometry x="472.53" y="369.09" width="174.36" height="27.72" as="geometry" />
         </mxCell>
         <mxCell id="_rdkf1LHz4WTwa0cJOul-105" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;rotation=70;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="797.0400000000001" y="465.93" width="87.92" height="15.07" as="geometry" />
