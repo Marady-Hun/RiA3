@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1072" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="740" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1045,15 +1045,6 @@
         <mxCell id="4vQ-l3kqJrT5gkioIU0m-37" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontSize=7;fillColor=#FF9999;gradientColor=#97d077;strokeColor=none;gradientDirection=radial;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;strokeWidth=0.5;" vertex="1" parent="4vQ-l3kqJrT5gkioIU0m-35">
           <mxGeometry x="22.768200620917348" y="1.7751479289940828" width="33.300734372719646" height="7.988165680473372" as="geometry" />
         </mxCell>
-        <mxCell id="4vQ-l3kqJrT5gkioIU0m-38" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="4vQ-l3kqJrT5gkioIU0m-47">
-          <mxGeometry x="162.48306441680012" width="83.63098903805887" height="11.538461538461537" as="geometry" />
-        </mxCell>
-        <mxCell id="4vQ-l3kqJrT5gkioIU0m-39" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontSize=7;fillColor=#d5e8d4;gradientColor=light-dark(#bce3a5, #295a0d);strokeColor=#82b366;gradientDirection=radial;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;strokeWidth=0.5;" vertex="1" parent="4vQ-l3kqJrT5gkioIU0m-38">
-          <mxGeometry width="83.63098903805891" height="11.538461538461537" as="geometry" />
-        </mxCell>
-        <mxCell id="4vQ-l3kqJrT5gkioIU0m-40" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontSize=7;fillColor=#FF9999;gradientColor=#97d077;strokeColor=none;gradientDirection=radial;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;strokeWidth=0.5;" vertex="1" parent="4vQ-l3kqJrT5gkioIU0m-38">
-          <mxGeometry x="24.14809156763961" y="1.7751479289940828" width="35.31896069833902" height="7.988165680473372" as="geometry" />
-        </mxCell>
         <mxCell id="4vQ-l3kqJrT5gkioIU0m-44" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="4vQ-l3kqJrT5gkioIU0m-47">
           <mxGeometry x="250.89296711417668" width="78.85207537874122" height="11.538461538461537" as="geometry" />
         </mxCell>
@@ -1186,7 +1177,10 @@
         <mxCell id="4vQ-l3kqJrT5gkioIU0m-106" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=none;gradientDirection=radial;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1065.1599999999999" y="427.11999999999995" width="4.92" height="4.92" as="geometry" />
         </mxCell>
-        <mxCell id="4vQ-l3kqJrT5gkioIU0m-107" value="&lt;span&gt;Endothelial dysfucntion/activation&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontSize=5;rotation=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;gradientDirection=radial;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vQ-l3kqJrT5gkioIU0m-108" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontSize=7;fillColor=#d5e8d4;gradientColor=light-dark(#d01616, #295a0d);strokeColor=#82b366;gradientDirection=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=0.5;opacity=60;perimeterSpacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="952.9979652666585" y="385.80000000000007" width="83.63098903805891" height="11.538461538461537" as="geometry" />
+        </mxCell>
+        <mxCell id="4vQ-l3kqJrT5gkioIU0m-107" value="&lt;span&gt;Endothelial dysfucntion/activation&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontSize=5;rotation=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=none;gradientDirection=radial;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="910" y="399.55999999999995" width="81.23" height="10" as="geometry" />
         </mxCell>
       </root>
