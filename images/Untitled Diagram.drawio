@@ -192,7 +192,7 @@
         <mxCell id="_9UikiLpi9VF-gFvVwCx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.535;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=1;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="_9UikiLpi9VF-gFvVwCx-10" target="_9UikiLpi9VF-gFvVwCx-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_9UikiLpi9VF-gFvVwCx-28" value="Endometrial Preparation" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="_9UikiLpi9VF-gFvVwCx-28" value="Conclusion" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="320" y="860" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
