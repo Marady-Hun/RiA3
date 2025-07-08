@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.2.0">
   <diagram name="Page-1" id="yW5x1KPEmtt9ouEG1Btp">
-    <mxGraphModel dx="1251" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="816" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -686,8 +686,8 @@
         <mxCell id="AuFHWk97tnP6p3V9HyzG-86" value="&lt;div&gt;6 RTX-Rem&lt;/div&gt;6 RTX-Rel&lt;div&gt;3 Control&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontSize=7;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1043" y="235.46" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AuFHWk97tnP6p3V9HyzG-88" value="CD19+ CD27+ CD20-" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Times New Roman;align=left;verticalAlign=middle;spacing=7;spacingRight=0;spacingBottom=3;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientDirection=radial;fontStyle=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="894" y="780.5" width="90" height="20" as="geometry" />
+        <mxCell id="AuFHWk97tnP6p3V9HyzG-88" value="CD19+ CD27+ CD20-" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Times New Roman;align=center;verticalAlign=middle;spacing=7;spacingRight=0;spacingBottom=3;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientDirection=radial;fontStyle=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="780.5" width="150" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="AuFHWk97tnP6p3V9HyzG-89" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;span&gt;&lt;b&gt;计划打算做的抗体&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontSize=7;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="894" y="767" width="90" height="13" as="geometry" />
