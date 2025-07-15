@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="28.0.4">
+  <diagram name="Page-1" id="svj01RIcCxmg7rdHXN18">
+    <mxGraphModel dx="1876" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ptJqO8vhbGqQZ9owbae6-35" value="&lt;div&gt;研究方案&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=0;labelBackgroundColor=none;fontSize=30;rotation=-90;fillColor=#d5e8d4;strokeColor=none;arcSize=0;gradientDirection=radial;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="-40.9" y="-222.26" width="251.31" height="59.75" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-10" value="" style="group;align=left;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="54.03" y="-555.345" width="63.49000000000001" height="267.69500000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="ptJqO8vhbGqQZ9owbae6-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; caret-color: rgb(42, 47, 69); white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;#2a2f45&quot;&gt;     研究内容&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=0;labelBackgroundColor=none;fontSize=30;rotation=-90;fillColor=#e6d0de;gradientColor=#D7C0F0;strokeColor=none;arcSize=0;gradientDirection=radial;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="b4Hbfn-oNvd7kyvqAXfs-10" vertex="1">
+          <mxGeometry x="-87.73" y="89.60500000000002" width="238.96" height="59.75" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-9" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=-90;strokeColor=none;size=17.374999999999957;" vertex="1" parent="b4Hbfn-oNvd7kyvqAXfs-10">
+          <mxGeometry x="5.14500000000001" y="209.35000000000002" width="53.2" height="63.49" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="xQaR5TmQwk8ptoz9tuNs-21" target="b4Hbfn-oNvd7kyvqAXfs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="xQaR5TmQwk8ptoz9tuNs-21" target="b4Hbfn-oNvd7kyvqAXfs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xQaR5TmQwk8ptoz9tuNs-21" value="多组学分析与临床研究" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;spacing=23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="162" y="-667" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xQaR5TmQwk8ptoz9tuNs-38" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;建立临床队列，流式分选CD20阴性记忆B细胞&lt;/font&gt;&lt;span style=&quot;font-family: Helvetica; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;亚群并检测GSTP1的表达水平，采用代谢组学等技术分析评估各项代谢重编程指标。统计分析GSTP与RTX的耐药相关性&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;gradientColor=#CCFFCC;strokeColor=#97D077;spacing=10;shadow=1;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;arcSize=7;" parent="1" vertex="1">
+          <mxGeometry x="131" y="-269" width="294" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" target="xQaR5TmQwk8ptoz9tuNs-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="602.0769230769229" y="-735" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="602" y="-706" />
+              <mxPoint x="273" y="-706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="b4Hbfn-oNvd7kyvqAXfs-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="602.0769230769229" y="-735" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="602" y="-706" />
+              <mxPoint x="910" y="-706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptJqO8vhbGqQZ9owbae6-60" value="&lt;font&gt;GSTP1调控CD20阴性记忆B细胞糖代谢重编程介导肾病综合征利妥昔单抗耐药的作用和机制研究&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;glass=0;strokeWidth=1;shadow=1;fillColor=#dae8fc;strokeColor=none;gradientColor=#7ea6e0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;spacing=4;spacingTop=3;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="164" y="-806" width="862" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="b4Hbfn-oNvd7kyvqAXfs-2" target="b4Hbfn-oNvd7kyvqAXfs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-2" value="动物体内干预验证" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;spacing=23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="796" y="-667" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="b4Hbfn-oNvd7kyvqAXfs-4" target="b4Hbfn-oNvd7kyvqAXfs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;entryX=0.525;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="b4Hbfn-oNvd7kyvqAXfs-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="-597" as="sourcePoint" />
+            <mxPoint x="600" y="-446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-4" value="细胞分子机制研究" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;spacing=23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="478" y="-667" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.54;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" target="b4Hbfn-oNvd7kyvqAXfs-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="602.0769230769229" y="-735" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-6" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="53.015" y="-769" width="63.49" height="257.405" as="geometry" />
+        </mxCell>
+        <mxCell id="ptJqO8vhbGqQZ9owbae6-20" value="&lt;div&gt;&lt;font color=&quot;#2a2f45&quot;&gt;&lt;span style=&quot;caret-color: rgb(42, 47, 69); white-space-collapse: preserve;&quot;&gt;  研究主题&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=0;labelBackgroundColor=none;fontSize=30;rotation=-90;fillColor=#CCE5FF;strokeColor=none;arcSize=2;gradientDirection=radial;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=#99CCFF;" parent="b4Hbfn-oNvd7kyvqAXfs-6" vertex="1">
+          <mxGeometry x="-87.795" y="90.57999999999993" width="240.38" height="59.22" as="geometry" />
+        </mxCell>
+        <mxCell id="ptJqO8vhbGqQZ9owbae6-56" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=-90;strokeColor=none;" parent="b4Hbfn-oNvd7kyvqAXfs-6" vertex="1">
+          <mxGeometry x="5.145000000000003" y="199.05999999999995" width="53.2" height="63.49" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" edge="1" parent="1" source="b4Hbfn-oNvd7kyvqAXfs-12" target="xQaR5TmQwk8ptoz9tuNs-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; caret-color: rgb(42, 47, 69); white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;#2a2f45&quot;&gt;建立肾病综合征队列，分析GSTP1与RTX临床应答之间的关联&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=0;labelBackgroundColor=none;fontSize=18;rotation=0;fillColor=#e1d5e7;strokeColor=#9673a6;arcSize=12;gradientDirection=radial;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;glass=0;fillStyle=auto;spacing=9;spacingTop=2;spacingRight=3;spacingBottom=2;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="142" y="-493" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" edge="1" parent="1" source="b4Hbfn-oNvd7kyvqAXfs-14" target="b4Hbfn-oNvd7kyvqAXfs-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="597" y="-366" />
+              <mxPoint x="597" y="-366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-14" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#2a2f45&quot;&gt;&lt;span style=&quot;caret-color: rgb(42, 47, 69); white-space-collapse: preserve;&quot;&gt;构建GSTP1敲除/过表达CD20B淋巴细胞模型，检测代谢重编程指标，解析GSTP1在RTX耐药中的作用机制&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=0;labelBackgroundColor=none;fontSize=18;rotation=0;fillColor=#e1d5e7;strokeColor=#9673a6;arcSize=12;gradientDirection=radial;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;glass=0;fillStyle=auto;spacing=9;spacingTop=2;spacingRight=3;spacingBottom=2;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="448" y="-493" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" edge="1" parent="1" source="b4Hbfn-oNvd7kyvqAXfs-15" target="b4Hbfn-oNvd7kyvqAXfs-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; caret-color: rgb(42, 47, 69); white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;#2a2f45&quot;&gt;构建肾病综合征动物模型，验证不同水平GSTP1对RTX治疗疗效的影响以及对代谢重编程的调控作用&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=0;labelBackgroundColor=none;fontSize=18;rotation=0;fillColor=#e1d5e7;strokeColor=#9673a6;arcSize=12;gradientDirection=radial;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;glass=0;fillStyle=auto;spacing=9;spacingTop=2;spacingRight=3;spacingBottom=2;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="777.93" y="-493" width="267.07" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-19" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=-90;strokeColor=none;size=17.374999999999957;" vertex="1" parent="1">
+          <mxGeometry x="59.17500000000001" y="-92.00499999999998" width="53.2" height="63.49" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-20" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;构建细胞模型，探究&lt;/font&gt;&lt;span style=&quot;font-family: Helvetica; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;GSTP1不同表达水平对代谢重编程及RTX疗效的影响，探索&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;GSTP1对PPP通路关&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;键分子的转录激活作用，建立GSTP1-PPP-&lt;/font&gt;&lt;span style=&quot;font-family: Helvetica; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;氧化应激的调控网络&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;gradientColor=#CCFFCC;strokeColor=#97D077;spacing=10;shadow=1;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="438.44" y="-267.5" width="316.56" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="b4Hbfn-oNvd7kyvqAXfs-21" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;构建肾病综合征小鼠模型，使用GSTP1抑制剂与激活剂，评估RTX&lt;/font&gt;&lt;span style=&quot;font-family: Helvetica; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;治疗疗效。使用PPP通路抑制剂，验证&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;GSTP1调控代谢重编&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;程导致RTX耐药的机制&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;gradientColor=#CCFFCC;strokeColor=#97D077;spacing=10;shadow=1;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="766.8199999999999" y="-267" width="290" height="166" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
